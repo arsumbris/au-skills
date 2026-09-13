@@ -1,0 +1,6 @@
+type: au.engine.repo::au-engine
+name: au-skills
+description: Skills and guides for authoring and independently reviewing agent skills.
+deps:
+  - name: au-agent-guides
+  - name: au-mcp-sdk
